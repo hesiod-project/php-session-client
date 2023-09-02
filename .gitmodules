@@ -1,0 +1,3 @@
+[submodule "sodium_compat"]
+	path = sodium_compat
+	url = https://github.com/paragonie/sodium_compat
